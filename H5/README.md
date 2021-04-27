@@ -20,7 +20,7 @@ Web Demo 使用 `Vue` + `Vuex` + `Element-UI` 开发，你可以参考该 Demo �
 
 > 参考文档：
 >
-> - [TIMSDK 官方文档](https://imsdk-1252463788.file.myqcloud.com/IM_DOC/Web/index.html)
+> - [TIMSDK 官方文档](https://web.sdk.qcloud.com/im/doc/zh-cn/SDK.html)
 
 ### 目录结构
 
